@@ -1,6 +1,6 @@
 # 학습내용
 
-![](https://https://raw.githubusercontent.com/wonsama/p5js_tutorial/master/tutorials/180712_first_sketch/img01.png)
+![](https://raw.githubusercontent.com/wonsama/p5js_tutorial/master/tutorials/180712_first_sketch/img01.png)
 
 [그림01 : 원 그리기 ]
 
@@ -20,9 +20,13 @@ function draw(){
 
 > 메인함수 설명 
 
-setup : 설정
+setup : 
 
-draw : 그리기
+* 설정
+
+draw : 
+
+* 그리기
 
 > 세부기능 설명
 
