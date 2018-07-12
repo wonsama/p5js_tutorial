@@ -4,7 +4,7 @@
 
 [그림01 : 원 그리기 ]
 
-#### 소스코드
+## 소스코드
 
 ```
 function setup(){
@@ -16,23 +16,21 @@ function draw(){
 }
 ```
 
-#### 설명
+## 설명
 
-> 메인함수 설명 
+### 메인함수 설명 
 
-setup : 
+* setup
 
-* 설정
+> 설정
 
-draw : 
+* draw
 
-* 그리기
+> 그리기
 
-> 세부기능 설명
+### 세부기능 설명
 
-ellipse : 
+* ellipse
 
-* 원을 그려준다
-
-* (x, y, width, height)
+> 원을 그려준다 (x, y, width, height)
 
