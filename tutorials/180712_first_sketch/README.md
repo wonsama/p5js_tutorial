@@ -20,17 +20,17 @@ function draw(){
 
 ### 메인함수 설명 
 
-* setup
+> setup
 
-> 설정
+* 설정
 
-* draw
+> draw
 
-> 그리기
+* 그리기
 
 ### 세부기능 설명
 
-* ellipse
+> ellipse
 
-> 원을 그려준다 (x, y, width, height)
+* 원을 그려준다 (x, y, width, height)
 
